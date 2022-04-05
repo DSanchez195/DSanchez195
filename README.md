@@ -9,7 +9,7 @@ const DSanchez = {
 
 🐒 About 
 
-I am a small programmer who likes to make bots on discord, I have been programming for a short time approximately 3 months, I am currently a staff at [PandaCommunity](https://discord.gg/panda-community), I specialize in the JavaScript language
+I am a small programmer who likes to make bots on discord, I have been programming for a short time approximately 3 months, I am currently a staff at [PandaCommunity](https://discord.gg/fTvYyyGeKy), I specialize in the JavaScript language
 
 🙍‍♂️ Contact Me
 

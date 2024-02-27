@@ -9,11 +9,11 @@ const DSanchez = {
 
 🐒 About 
 
-I am a small programmer who likes to make bots on discord, I have been programming for a short time approximately 3 months, I am currently a staff at [PandaCommunity](https://discord.gg/fTvYyyGeKy), I specialize in the JavaScript language
+I am a small programmer who likes to make bots on discord, I have been programming for a short time approximately 3 months, I specialize in the Python language
 
 🙍‍♂️ Contact Me
 
-- Discord: DSanchez#7076
+- Discord: dsanchez_19
 
 [![DSanchez195 Github Stats](https://github-readme-stats.vercel.app/api?username=DSanchez195)](https://github.com/anuraghazra/github-readme-status)
 
